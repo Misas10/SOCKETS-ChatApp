@@ -1,0 +1,14 @@
+hr{
+    flex:1;
+}
+
+h1{
+    padding:0px 48px;
+}
+
+.title{
+    display:flex;
+    flex-flow:row;
+    justify-content:center;
+    align-items:center;
+}
